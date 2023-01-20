@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabenoit (Gabriel BENOIT)
 - 👀 I’m interested in sports, learning new things about development and programming. I also follow with a passion the advancements in quantum computing.
-- 🌱 I’m currently learning Computer Science with a master degree in software engineering.
+- 🌱 I’m currently learning Computer Science with a master degree in data science.
 - 💞️ I’m looking to collaborate on some random projects (without the prospect of a financial result) because why not.
 - 📫 How to reach me : You can add me on facebook (Gabriel BENOIT)
   
