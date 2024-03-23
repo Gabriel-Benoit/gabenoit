@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gabenoit (Gabriel BENOIT)
-- 👀 I’m interested in sports, learning new things about development and programming. I also follow with a passion the advancements in quantum computing.
-- 🌱 I’m currently learning Computer Science with a master degree in data science.
-- 💞️ I’m looking to collaborate on some random projects (without the prospect of a financial result) because why not.
-- 📫 How to reach me : You can add me on facebook (Gabriel BENOIT)
+ Hi 👋!  I’m Gabriel. I’m interested in sports, learning new things about development and programming. I also follow with a passion the advancements in quantum computing. 
+ I’m currently in my last year of a master degree in data science. How to reach me : You can add me on facebook (Gabriel Benoit)
   
 <!---
 gabenoit/gabenoit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
